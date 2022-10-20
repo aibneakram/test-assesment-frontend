@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    font-size: xx-large;
+    margin-top: 1rem;
+    font-weight: bold;
+}
+
+.contact{
+    justify-content: center;
+    text-align:left;
+    margin: auto;
+    font-size:x-large;
+    margin-top: 1rem;
+    font-weight: bold;
+}
+
+.button{
+    justify-content: center;
+    text-align:right;
+    margin: auto;
+    font-size: xx-large;
+    margin-top: 1rem;
+}
